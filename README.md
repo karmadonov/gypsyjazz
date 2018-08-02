@@ -1,0 +1,2 @@
+# gypsyjazz
+Django template project
